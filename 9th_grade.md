@@ -23,4 +23,4 @@
 * regional phase: 5th place (SSMR mention)
 
 
-And other smaller CP contests and local chess competitions, but no notable awards.
+And other smaller AI & CP contests and local chess competitions, but no notable awards.
