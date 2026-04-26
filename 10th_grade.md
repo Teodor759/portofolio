@@ -16,4 +16,4 @@
 
 - National Olympiad in Cybercecurity (ONSC)
 
-- National Cybersecurity Championship(ROCSC)
+- National Cybersecurity Championship (ROCSC)
