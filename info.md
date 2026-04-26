@@ -6,7 +6,7 @@ If you’re not familiar with the Romanian Olympiad system, here are some explan
 
 * Other competitions may be **recognized** by the Ministry of Education, but they are not organized or sponsored by it. As a result, they do not receive any financial support from the government.
 
-# Selections for internationals/european olympiads
+# Selections for international/european olympiads
 
 ## AI:
 * National Olympiad in AI (ONIA): selection for IOAI
