@@ -17,7 +17,7 @@ If you’re not familiar with the Romanian Olympiad system, here are some explan
 
 ## Cybersecurity:
 
-* National Olympiad in Cybercecurity (OSC): ECSC
-* National Cybersecurity Championship (ROCSC): ECSC
+* National Olympiad in Cybercecurity (OSC): selection for ECSC
+* National Cybersecurity Championship (ROCSC): selection for ECSC
 
 (I just started and I am not quite sure how the cybersecurity competitions work, it seems like both of them select a team for ECSC. One key difference is that OSC only allows high school students, while ROCSC allows everyone up to the age of 25) 
