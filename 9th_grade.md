@@ -14,13 +14,13 @@
 
 ## National Olympiad in Informatics:
 
-* regional phase (OJI): 3rd place
+* regional phase: 3rd place
 
 # Maths:
 
 ## National Olympiad in Mathematics:
 
-* regional phase(OJM): 5th place (SSMR mention)
+* regional phase: 5th place (SSMR mention)
 
 
 And other smaller AI & CP contests and local chess competitions, but no notable awards.
