@@ -10,10 +10,16 @@
 
 - National Olympiad in Informatics (ONI)
 
-- National Olympiad in Applied Informatics (AcadNet), software interoperability section (seems pretty similar to the informatics olympiad, so I'll give it a shot)
-
 ## Cybersecurity:
 
 - National Olympiad in Cybercecurity (ONSC)
 
 - National Cybersecurity Championship (ROCSC)
+
+## Networking
+
+- National Olympiad in Applied Informatics (AcadNet), networking section (maybe it will help me for cybersec competitions)
+
+## Software dev
+
+- National Olympiad in Applied Informatics (AcadNet), software interoperability section (this is literally debugging, so I'll put it here)
