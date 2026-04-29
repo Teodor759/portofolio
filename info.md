@@ -24,4 +24,4 @@ If you’re not familiar with the Romanian Olympiad system, here are some explan
 
 # Others:
 
-- the National Olympiad in Applied Informatics (AcadNet) has 3 sections: Operating Systems, Networking and Software interoperability(debugging in C++ or in Python & C++ & Java depending on your grade). It doesn't select students for any international olympiad, but I think it's really cool.
+- the National Olympiad in Applied Informatics (AcadNet) has 3 sections: Operating Systems, Networking and Software interoperability(debugging in C++ or in Python & C++ & Java depending on your grade). It doesn't select students for any international olympiad, but I think it's really cool. Also, you can only participate at multiple sections at the local phase, after that you'll need to choose one.
