@@ -10,7 +10,7 @@ If you’re not familiar with the Romanian Olympiad system, here are some explan
 
 ## AI:
 * National Olympiad in AI (ONIA): selection for IOAI
-* Romanian Olympiad in AI (ROAI): selection for IAIO & EUROAI
+* Romanian Olympiad in AI (ROAI): selection for IAIO & CEOAI
 
 ## CP:
 * National Olympiad in Informatics (ONI): selection for IOI, CEOI & BOI
