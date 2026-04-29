@@ -21,3 +21,7 @@ If you’re not familiar with the Romanian Olympiad system, here are some explan
 * National Cybersecurity Championship (ROCSC): selection for ECSC
 
 (I just started and I am not quite sure how the cybersecurity competitions work, it seems like both of them select a team for ECSC. One key difference is that OSC only allows high school students, while ROCSC allows everyone up to the age of 25) 
+
+# Others:
+
+- the National Olympiad in Applied Informatics (AcadNet) has 3 sections: Operating Systems, Networking and Software interoperability(debugging in C++ or in Python & C++ & Java depending on your grade). It doesn't select students for any international olympiad, but I think it's really cool.
