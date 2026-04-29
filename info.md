@@ -2,7 +2,7 @@
 
 If you’re not familiar with the Romanian Olympiad system, here are some explanations:
 
-* Anything that includes the word **“national”** is organized by the Ministry of Education. All distinctions (top 3 and honorable mentions) come with certain perks for college admission, as well as monetary rewards funded by the government.
+* Anything that includes **“national olympiad”** is organized by the Ministry of Education. All distinctions (top 3 and honorable mentions) come with certain perks for college admission, as well as monetary rewards funded by the government.
 
 * Other competitions may be **recognized** by the Ministry of Education, but they are not organized or sponsored by it. As a result, they do not receive any financial support from the government.
 
